@@ -1,6 +1,6 @@
 name: Taiyi-Master
 
-on:
+off:
   workflow_dispatch:
   workflow_call:
   # schedule:
