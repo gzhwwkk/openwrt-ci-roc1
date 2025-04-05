@@ -1,6 +1,6 @@
 name: Arthur&Athena-6.12
 
-on:
+off:
   workflow_dispatch:
   workflow_call:
   # schedule:
